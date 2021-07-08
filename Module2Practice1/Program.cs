@@ -10,7 +10,7 @@ namespace Module2Practice1
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Starter.Run();
         }
     }
 }
